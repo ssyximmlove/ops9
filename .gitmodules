@@ -1,3 +1,6 @@
 [submodule "ops9-visualize"]
 	path = ops9-visualize
 	url = git@github.com:ssyximmlove/ops9-visualize.git
+[submodule "ops9-stm32"]
+	path = ops9-stm32
+	url = git@github.com:ssyximmlove/ops9-stm32.git
